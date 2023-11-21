@@ -7,3 +7,4 @@
 ### 4.1 git init
 ### 4.1 git remote add origin https://github.com/a747895159/spring-boot-util.git
 
+# 5.即可idea进行项目提交，建立项目完成
